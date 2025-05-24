@@ -1,4 +1,4 @@
-Meus Repositórios funcionando:<br>
+Meus Repositórios execução:<br>
 Taypi Versio 2.0 - https://iatagancursos.github.io/Esperanto-Taypi/taypi-versio-2.0.html<br>
 Megusta - https://iatagancursos.github.io/Megusta/pagina-principal.html<br>
 SVG - https://iatagancursos.github.io/SVG/svg.html
