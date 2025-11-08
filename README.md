@@ -12,4 +12,10 @@
     <li>Meus Livros - https://jorgeia.blogspot.com</li>
     <li>Teoria do Tempo - https://teoriadotempo.blogspot.com</li>
   </ul>
+  <li>Lista de repositórios do Github</li>
+  <ul>
+    <li>Clipper/Harbour - https://github.com/harbour/core</li>
+    <li>Linux no WebAssembly - https://github.com/joelseverin/linux-wasm</li>
+    <li>Emulador Darwin/macOS para Linux - https://github.com/darlinghq/darling</li>
+  </ul>
 </ul>
