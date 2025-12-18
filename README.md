@@ -7,6 +7,12 @@
     <li>SVG - Graficos 2D - https://iatagancursos.github.io/SVG/svg.html</li>
     <li>Sonic3D - Gráficos 3D - </li>
   </ul>
+  <li>Outros Projetos em HTML</li>
+  <ul>
+    <li>Eletrônica em HTML</li>
+    <li>Eletrônica Digital em HTML</li>
+    <li>Música em HTML</li>
+  </ul>
   <li>Meus principais trabalhos:</li>
   <ul>
     <li>Curso de programação, eletrônica e robótica - https://ouka.com.br </li>
