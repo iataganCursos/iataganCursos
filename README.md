@@ -5,7 +5,7 @@
     <li>Megusta - https://iatagancursos.github.io/Megusta/pagina-principal.html</li>
     <li>CDD - Gerenciador de Arquivos - https://iatagancursos.github.io/cdd/gerenciador-de-arquivos.html</li>
     <li>SVG - Graficos 2D - https://iatagancursos.github.io/SVG/svg.html</li>
-    <li>Sonic3D - Gráficos 3D - https://iatagancursos.github.io/sonic3d/pagina-principal.html</li>
+    <li>Sonic3D - Gráficos 3D - https://iatagancursos.github.io/star3d/pagina-principal.html</li>
   </ul>
   <li>Outros Projetos em HTML</li>
   <ul>
