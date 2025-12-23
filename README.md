@@ -1,7 +1,7 @@
 <ul>
   <li>Meus Repositórios em execução:</li>
   <ul>
-    <li>Taypi Versio 2.0 (uma Língua Planejada semelhante ao Esperanto) - https://iatagancursos.github.io/Esperanto-Taypi/taypi-versio-2.0.html</li>
+    <li>Taypi Versio 2.0 (uma Língua Planejada semelhante ao Esperanto para Inteligência Artificial) - https://iatagancursos.github.io/Esperanto-Taypi/taypi-versio-2.0.html</li>
     <li>Megusta - https://iatagancursos.github.io/Megusta/pagina-principal.html</li>
     <li>CDD - Gerenciador de Arquivos - https://iatagancursos.github.io/cdd/gerenciador-de-arquivos.html</li>
     <li>SVG - Graficos 2D - https://iatagancursos.github.io/SVG/svg.html</li>
