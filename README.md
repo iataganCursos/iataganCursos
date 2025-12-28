@@ -6,6 +6,7 @@
     <li>CDD - Gerenciador de Arquivos - https://iatagancursos.github.io/cdd/gerenciador-de-arquivos.html</li>
     <li>SVG - Graficos 2D - https://iatagancursos.github.io/SVG/svg.html</li>
     <li>Star3D - Gráficos 3D - https://iatagancursos.github.io/star3d/pagina-principal.html</li>
+    <li>Mandacaru Linux - Minha própria Distribuição Linux, baseado no Ubuntu, para computadores antigos</li>
   </ul>
   <li>Outros Projetos em HTML</li>
   <ul>
