@@ -18,7 +18,7 @@
   <ul>
     <li>Curso de programação, eletrônica e robótica - https://ouka.com.br </li>
     <li>Cursinho Pré-vestibular - https://iatagan.com.br</li>
-    <li>Meus Livros - https://jorgeia.blogspot.com</li>
+    <li>Meus Livro - Viva com Saúde na Era Digital - https://jorgeia.blogspot.com</li>
     <li>Teoria do Tempo - https://teoriadotempo.blogspot.com</li>
   </ul>
   <li>Lista de repositórios do Github usados ​​em ouka.com.br <br>
