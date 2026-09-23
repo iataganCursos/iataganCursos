@@ -11,9 +11,9 @@
   </ul>
   <li>Outros Projetos em HTML</li>
   <ul>
-    <li>Eletrônica em HTML</li>
-    <li>Eletrônica Digital em HTML</li>
-    <li>Música em HTML</li>
+    <li>Eletrônica em HTML - https://iatagancursos.github.io/eletronica/</li>
+    <li>Eletrônica Digital em HTML - https://iatagancursos.github.io/EletronicaDigital/</li>
+    <li>Música em HTML - https://iatagancursos.github.io/musica/</li>
   </ul>
   <li>Meus principais trabalhos:</li>
   <ul>
